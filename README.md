@@ -150,12 +150,3 @@ cd humanoid-motion-intelligence
 做工程问题分析时，可以同时提供机器人型号、仿真环境、观测与动作定义、训练曲线或运行日志，让检索结果与实际实验对应起来；做论文比较时，可以明确比较维度，例如数据需求、控制接口、训练成本和任务表现。
 
 相关资料：[小而美的运动控制项目](https://my.feishu.cn/wiki/Q1jaw5rCliWddukCfYfcwjW0nJf)。
-
-## 联系与许可
-
-欢迎通过[GitHub Issues](https://github.com/RealXiaoze/humanoid-motion-intelligence/issues)反馈错误或推荐资料，请附上对应页面与来源链接。
-
-- 微信：`yzz010329`
-- 转载与使用：[许可与版权说明](LICENSE.md)
-
-![元泽个人名片](求职与岗位/图片/个人名片.png)
